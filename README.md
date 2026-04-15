@@ -2,6 +2,8 @@
 
 An automated system for managing 10bis credit loading and token refresh operations. Choose from three deployment options: **GitHub Actions** (cloud-based, no server required), **Linux Server** (traditional cron-based), or **Docker** (containerized testing).
 
+[Google Docs Guide](https://docs.google.com/document/d/1i2mZmgWlTxfjYtqZwFuZp5wdWS2VtmEd)
+
 ## Features
 
 - **Automatic Token Refresh**: Refreshes authentication tokens every 10 minutes
